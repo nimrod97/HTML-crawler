@@ -1,8 +1,5 @@
 """
 Nimrod Gabbay
-318322484
-01
-ass7
 """
 def crawler(filename):
     """
